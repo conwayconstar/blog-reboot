@@ -19,7 +19,7 @@
     "consola": "^2.10.1",
     "cross-env": "^5.2.0",
     "eslint-plugin-vue": "^5.2.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "mongoose": "^5.7.1",
     "nuxt": "^2.0.0"
   },
